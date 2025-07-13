@@ -8,7 +8,7 @@ node_modules
 .env
 .env.build
 
-# Log files1111111111111111
+# Log files111111111111111111
 npm-debug.log* 
 yarn-debug.log*
 yarn-error.log*
